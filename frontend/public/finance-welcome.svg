@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="560" viewBox="0 0 640 560" fill="none">
+  <defs>
+    <linearGradient id="background" x1="58" y1="30" x2="568" y2="530" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F2FAF5"/>
+      <stop offset="1" stop-color="#DCEFE5"/>
+    </linearGradient>
+    <linearGradient id="jar" x1="234" y1="207" x2="408" y2="430" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF" stop-opacity=".9"/>
+      <stop offset="1" stop-color="#E9F6EE" stop-opacity=".72"/>
+    </linearGradient>
+    <linearGradient id="coin" x1="286" y1="239" x2="350" y2="303" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F7CF76"/>
+      <stop offset="1" stop-color="#E5A94A"/>
+    </linearGradient>
+    <filter id="shadow" x="142" y="350" width="365" height="98" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feGaussianBlur stdDeviation="15"/>
+    </filter>
+  </defs>
+  <rect width="640" height="560" rx="34" fill="url(#background)"/>
+  <circle cx="520" cy="96" r="44" fill="#FFF6DA"/>
+  <circle cx="520" cy="96" r="24" fill="#F7D77E"/>
+  <path d="M75 421C152 394 216 397 278 416C362 442 464 443 565 404V560H75V421Z" fill="#D1E8DA"/>
+  <path d="M74 452C164 423 230 433 306 453C385 474 472 464 565 434V560H74V452Z" fill="#C5E1D2"/>
+  <ellipse cx="325" cy="403" rx="166" ry="25" fill="#547B65" fill-opacity=".16" filter="url(#shadow)"/>
+  <path d="M178 417C165 367 169 313 190 265" stroke="#548B69" stroke-width="9" stroke-linecap="round"/>
+  <path d="M188 336C152 332 130 310 126 282C158 279 184 297 193 320" fill="#6BA77A"/>
+  <path d="M185 297C176 267 187 239 212 224C228 252 221 280 197 302" fill="#3D8967"/>
+  <path d="M470 420C489 374 488 335 473 294" stroke="#548B69" stroke-width="8" stroke-linecap="round"/>
+  <path d="M475 357C512 347 532 321 531 291C499 293 476 312 469 341" fill="#6BA77A"/>
+  <path d="M480 323C496 294 490 265 468 246C448 272 450 300 469 326" fill="#3D8967"/>
+  <path d="M242 191H398L414 225V396C414 415 399 430 380 430H260C241 430 226 415 226 396V225L242 191Z" fill="url(#jar)" stroke="#92BEA2" stroke-width="5"/>
+  <path d="M229 252C279 272 360 272 411 252V395C411 412 398 425 380 425H260C243 425 229 412 229 395V252Z" fill="#B8DFC7" fill-opacity=".65"/>
+  <path d="M226 243C277 263 362 263 414 243V258C362 279 277 279 226 258V243Z" fill="#7EBA91"/>
+  <path d="M258 190V174C258 163 267 154 278 154H362C373 154 382 163 382 174V190" stroke="#6E9F7F" stroke-width="11" stroke-linecap="round"/>
+  <circle cx="319" cy="304" r="47" fill="#FFF9E8" fill-opacity=".74"/>
+  <circle cx="319" cy="299" r="34" fill="url(#coin)" stroke="#D59A3D" stroke-width="4"/>
+  <path d="M325 280C322 276 317 274 311 276C305 278 303 284 307 288C311 292 322 292 327 297C332 302 329 310 322 313C316 316 308 314 304 309M317 270V320" stroke="#FFF4CE" stroke-width="5" stroke-linecap="round"/>
+  <rect x="72" y="102" width="142" height="80" rx="17" fill="#FFFFFF" fill-opacity=".87"/>
+  <circle cx="101" cy="131" r="12" fill="#E8F4EA"/>
+  <path d="M96 131L100 135L107 126" stroke="#238568" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="122" y="126" width="66" height="8" rx="4" fill="#AEC9B7"/>
+  <rect x="96" y="151" width="94" height="7" rx="3.5" fill="#E3ECE4"/>
+  <rect x="430" y="188" width="132" height="84" rx="17" fill="#FFFFFF" fill-opacity=".87"/>
+  <path d="M450 247L472 230L490 238L516 210L541 219" stroke="#398F71" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="541" cy="219" r="5" fill="#398F71"/>
+  <rect x="451" y="255" width="91" height="6" rx="3" fill="#E4EEE5"/>
+  <path d="M355 116C379 97 406 90 433 95" stroke="#7BAB8A" stroke-width="3" stroke-linecap="round" stroke-dasharray="2 10"/>
+  <path d="M354 115L365 114L360 124" fill="#7BAB8A"/>
+  <path d="M149 220C129 199 105 190 82 195" stroke="#7BAB8A" stroke-width="3" stroke-linecap="round" stroke-dasharray="2 10"/>
+  <path d="M149 220L138 217L143 208" fill="#7BAB8A"/>
+</svg>

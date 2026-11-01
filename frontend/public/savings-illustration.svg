@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="310" viewBox="0 0 480 310" fill="none">
+  <defs>
+    <linearGradient id="scene" x1="36" y1="8" x2="430" y2="306" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F3FAF5"/>
+      <stop offset="1" stop-color="#E0F0E7"/>
+    </linearGradient>
+    <linearGradient id="glass" x1="196" y1="120" x2="296" y2="256" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF" stop-opacity=".9"/>
+      <stop offset="1" stop-color="#D9F0E0" stop-opacity=".72"/>
+    </linearGradient>
+  </defs>
+  <rect width="480" height="310" rx="24" fill="url(#scene)"/>
+  <circle cx="389" cy="70" r="32" fill="#FFF2CC"/>
+  <path d="M44 255C104 239 154 241 213 254C276 268 354 272 437 241V310H44V255Z" fill="#D2E8D8"/>
+  <path d="M166 248C158 207 161 173 176 142" stroke="#5C956E" stroke-width="7" stroke-linecap="round"/>
+  <path d="M172 196C145 192 127 175 124 153C147 150 166 164 176 184" fill="#76B285"/>
+  <path d="M172 168C164 147 173 125 194 114C208 134 202 154 180 171" fill="#438F69"/>
+  <path d="M324 249C339 214 340 187 329 158" stroke="#5C956E" stroke-width="7" stroke-linecap="round"/>
+  <path d="M334 211C361 202 375 183 373 161C350 164 334 178 330 199" fill="#76B285"/>
+  <path d="M333 186C347 165 343 144 327 130C311 149 312 170 329 188" fill="#438F69"/>
+  <path d="M209 128H281L292 150V238C292 250 283 259 271 259H219C207 259 198 250 198 238V150L209 128Z" fill="url(#glass)" stroke="#86B398" stroke-width="4"/>
+  <path d="M200 177C226 189 265 189 290 177V237C290 249 282 257 271 257H219C208 257 200 249 200 237V177Z" fill="#A9D6B6" fill-opacity=".7"/>
+  <path d="M198 168C226 179 264 179 292 168V181C264 193 226 193 198 181V168Z" fill="#76B88D"/>
+  <path d="M218 128V117C218 109 224 103 232 103H258C266 103 272 109 272 117V128" stroke="#659B75" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="245" cy="147" r="21" fill="#F2C45E"/>
+  <path d="M249 135C247 132 243 131 240 133C236 135 237 140 241 142L248 145C252 147 252 152 248 154C244 157 239 155 237 152M244 128V159" stroke="#FFF4D2" stroke-width="3" stroke-linecap="round"/>
+  <rect x="60" y="77" width="101" height="61" rx="13" fill="#FFFFFF" fill-opacity=".9"/>
+  <path d="M78 119V105M94 119V97M110 119V88" stroke="#31916F" stroke-width="8" stroke-linecap="round"/>
+  <path d="M130 112L139 103L146 107L153 98" stroke="#E4B85A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M298 108C319 91 339 86 356 88" stroke="#79A889" stroke-width="3" stroke-linecap="round" stroke-dasharray="2 9"/>
+  <path d="M356 88L348 84L350 94" fill="#79A889"/>
+</svg>

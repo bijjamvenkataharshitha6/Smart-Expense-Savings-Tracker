@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="180" viewBox="0 0 420 180" fill="none">
+  <defs><linearGradient id="safe" x1="26" y1="0" x2="393" y2="180" gradientUnits="userSpaceOnUse"><stop stop-color="#E9EBFA"/><stop offset="1" stop-color="#DCEBE8"/></linearGradient></defs>
+  <rect width="420" height="180" rx="14" fill="url(#safe)"/>
+  <circle cx="334" cy="42" r="21" fill="#FFF7D9"/>
+  <path d="M0 139C79 121 150 143 220 137C290 131 350 115 420 132V180H0V139Z" fill="#C7DCD1"/>
+  <path d="M210 35L275 58V99C275 131 247 151 210 164C173 151 145 131 145 99V58L210 35Z" fill="#89B5A0"/>
+  <path d="M210 47L263 65V99C263 124 241 140 210 152C179 140 157 124 157 99V65L210 47Z" fill="#F4F8EF"/>
+  <path d="M210 66V111M188 88H232" stroke="#4E9276" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="101" cy="64" r="17" fill="#F1C96D"/><path d="M98 54C103 51 109 55 107 60C106 64 96 65 96 71C96 77 103 80 109 76M102 49V81" stroke="#FFF8DF" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="326" cy="120" r="18" fill="#F1C96D"/><path d="M323 110C328 107 334 111 332 116C331 120 321 121 321 127C321 133 328 136 334 132M327 105V137" stroke="#FFF8DF" stroke-width="3" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="180" viewBox="0 0 420 180" fill="none">
+  <defs><linearGradient id="edubg" x1="20" y1="0" x2="390" y2="180" gradientUnits="userSpaceOnUse"><stop stop-color="#E7EBFA"/><stop offset="1" stop-color="#E4F1E9"/></linearGradient></defs>
+  <rect width="420" height="180" rx="14" fill="url(#edubg)"/>
+  <circle cx="336" cy="39" r="20" fill="#F7D77E"/>
+  <path d="M0 139C86 124 155 150 229 138C301 127 358 124 420 140V180H0V139Z" fill="#C9DFD1"/>
+  <path d="M105 81L210 44L315 81L210 117L105 81Z" fill="#5D9578"/>
+  <path d="M151 99V128C185 148 235 148 269 128V99L210 120L151 99Z" fill="#FDFBF2"/>
+  <path d="M210 117V143" stroke="#8F654B" stroke-width="5"/>
+  <path d="M297 84V121" stroke="#E4AE54" stroke-width="4" stroke-linecap="round"/>
+  <path d="M288 119C288 113 306 113 306 119V133C306 140 288 140 288 133V119Z" fill="#E8B95F"/>
+  <path d="M295 66C296 61 302 59 305 62L314 71L306 80L295 69V66Z" fill="#F8F5E9"/>
+  <circle cx="110" cy="51" r="8" fill="#F4CE76"/><circle cx="324" cy="112" r="8" fill="#8AB798"/>
+</svg>
